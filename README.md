@@ -57,4 +57,4 @@ dfx canister --network=ic call my_counter set '(987)'
 dfx canister --network=ic call my_counter increment
 dfx canister --network=ic call my_counter get
 
-```
+```ls
